@@ -1,4 +1,4 @@
-//CREAR FUNCIONES
+//CREAR FUNCIONES PESO PLANETA
 var peso = parseFloat(prompt("Ingresa tu peso"));
 pesoPlaneta();
 
