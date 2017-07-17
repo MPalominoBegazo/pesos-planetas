@@ -1,4 +1,4 @@
-//CREAR FUNCIONESvar peso = prompt("Ingresa tu peso");
+
 pesoPlaneta();
 
 function masa(){
@@ -26,4 +26,5 @@ alert ("Tu peso en el planeta Mercurio es : "+ mercurio.toFixed(2) + "\n" +
         "Tu peso en el planeta Neptuno es : " + neptuno.toFixed(2) + "\n" +
         "Tu peso en el planeta Pluton es : " + pluton.toFixed(2) + "\n"
       );
+
 }
